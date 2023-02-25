@@ -1,6 +1,6 @@
 <h2 align="center">
   Flappy Mario <br/>
-  <a href="https://leonardo.d3f4lt.com.br/" target="_blank">VIEW</a>
+  <a href="https://flappy.d3f4lt.com.br/" target="_blank">VIEW</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="https://user-images.githubusercontent.com/18251655/221361401-0dcffef0-b7e8-4407-954d-7941c64c025e.gif" />
