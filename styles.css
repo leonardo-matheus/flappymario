@@ -1,0 +1,26 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas{
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+    width: 70vw;
+    height: 80vh;
+
+    
+}
+
+@media only screen and (max-width: 480px) {
+    /* For mobile phones: */
+    canvas {
+      width: 100vw;
+      height: 95vh;
+      display: block;
+      position: absolute;
+    }
+  }
