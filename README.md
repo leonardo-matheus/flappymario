@@ -20,7 +20,7 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/leonardo-matheus/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/leonardo-matheus/flappymario/issues">Report Bug</a> &nbsp; &nbsp;
 </h3>
 
 ## Built With
